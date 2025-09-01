@@ -1,0 +1,22 @@
+# Arduino / ESP32
+.pio/
+.vscode/
+.arduinoIDE/
+__pycache__/
+.DS_Store
+build/
+cmake-build-*/
+*.elf
+*.bin
+*.eep
+*.map
+*.hex
+*.obj
+*.o
+*.d
+*.log
+*.tmp
+# Node/UI (if you add a web UI later)
+node_modules/
+dist/
+.env
